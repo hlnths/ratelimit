@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/ratelimit
+module github.com/hlnths/ratelimit
 
 go 1.18
 
